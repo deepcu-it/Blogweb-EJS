@@ -1,0 +1,41 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+.pad{
+    padding:3%;
+}
+.white{
+    background-color: rgb(241, 251, 244);
+}
+.green{
+    background-color: rgb(228, 112, 141);
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+.cen{
+    text-align: center;
+}
+.spacing {
+    margin:3vw;
+}
+.tablespacing td{
+    padding: 0.5vw 2vw;
+}
+.active-a{
+    color:beige;
+}
+p{
+    font-size: 2vw;
+} 
+.content{
+    padding-left: 3.5vw;
+    padding-right: 3.5vw;
+    padding-bottom: 1.89vw;
+    padding-top: 1.89vw;
+
+}
